@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'BungeeInline';
+    font-display: swap;
+    src: url('../font/BungeeInline.ttf') format("truetype");
+  }
+@font-face {
+    font-family: 'Gugi';
+    font-display: swap;
+    src: url('../font/Gugi.ttf') format("truetype");
+  }
+@font-face {
+    font-family: 'EDIX';
+    font-display: swap;
+    src: url('../font/EDIX.ttf') format("truetype");
+  }
