@@ -13,3 +13,8 @@
     font-display: swap;
     src: url('../font/EDIX.ttf') format("truetype");
   }
+  @font-face {
+    font-family: 'CascadiaCode';
+    font-display: swap;
+    src: url('../font/CascadiaCodeNFItalic.ttf') format("truetype");
+  }
