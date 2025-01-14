@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>hexo-safego外链跳转插件使用</title>
+      <link href="/posts/61373/"/>
+      <url>/posts/61373/</url>
+      
+        <content type="html"><![CDATA[<h2 id="使用原因">使用原因</h2><ul><li>作为自我保护机制</li><li>装逼（梅开二度）</li></ul><p>好了不多说，现在切入正题</p><h2 id="安装过程">安装过程</h2><h3 id="准备工作">准备工作</h3><p>先确保你的 <code>hexo</code> 有没有安装过 <code>cheerio</code> ,但一般都会有这个库的，可以去 <code>node_moudle</code> 这个文件夹里面找一下。<br>没有就安装：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install cheerio --save</span><br></pre></td></tr></table></figure><p>然后就可以安装该插件：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-safego --save</span><br></pre></td></tr></table></figure><div class="note warning modern"><p>请注意，你要先确保你的 <code>hexo</code> 之前没有安装过 <code>hexo-filter-links</code> 之类的外链转内链插件，要不然这个插件起不了作用的呢qwq</p></div>  <p>如果你像我一样，之前安装过 <code>hexo-filter-links</code> ,那可以这样卸载：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm uninstall hexo-filter-links --save</span><br></pre></td></tr></table></figure><h3 id="配置过程">配置过程</h3><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://github.com/owen0o0/getFavicon">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">获取网站的Favicon图标并显示在你的网页上</div>            <div class="tag-link-sitename">owen0o0</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 魔改 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科技 </tag>
+            
+            <tag> 魔改 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在安知鱼主题中增加来访者侧边栏</title>
       <link href="/posts/37773/"/>
       <url>/posts/37773/</url>
