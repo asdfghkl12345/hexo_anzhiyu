@@ -1,1 +1,20 @@
-@font-face{font-family:BungeeInline;font-display:swap;src:url('https://fastly.jsdelivr.net/gh/asdfghkl12345/hexo_anzhiyu@master/font/BungeeInline.ttf') format("truetype")}@font-face{font-family:Gugi;font-display:swap;src:url('https://fastly.jsdelivr.net/gh/asdfghkl12345/hexo_anzhiyu@master/font/Gugi.ttf') format("truetype")}@font-face{font-family:EDIX;font-display:swap;src:url('https://fastly.jsdelivr.net/gh/asdfghkl12345/hexo_anzhiyu@master/font/EDIX.ttf') format("truetype")}@font-face{font-family:CascadiaCode;font-display:swap;src:url('https://fastly.jsdelivr.net/gh/asdfghkl12345/hexo_anzhiyu@master/font/CascadiaCodeNFItalic.ttf') format("truetype")}
+@font-face {
+    font-family: 'BungeeInline';
+    font-display: swap;
+    src: url('https://fastly.jsdelivr.net/gh/asdfghkl12345/hexo_anzhiyu@master/font/BungeeInline.ttf') format("truetype");
+  }
+@font-face {
+    font-family: 'Gugi';
+    font-display: swap;
+    src: url('https://fastly.jsdelivr.net/gh/asdfghkl12345/hexo_anzhiyu@master/font/Gugi.ttf') format("truetype");
+  }
+@font-face {
+    font-family: 'EDIX';
+    font-display: swap;
+    src: url('https://fastly.jsdelivr.net/gh/asdfghkl12345/hexo_anzhiyu@master/font/EDIX.ttf') format("truetype");
+  }
+  @font-face {
+    font-family: 'CascadiaCode';
+    font-display: swap;
+    src: url('https://fastly.jsdelivr.net/gh/asdfghkl12345/hexo_anzhiyu@master/font/CascadiaCodeNFItalic.ttf') format("truetype");
+  }
