@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wxiaow</title>
+  <icon>https://www.wxiaow.us.kg/icon.png</icon>
+  <subtitle>抛开烦恼，快乐生活</subtitle>
+  <link href="https://www.wxiaow.us.kg/atom.xml" rel="self"/>
+  
+  <link href="https://www.wxiaow.us.kg/"/>
+  <updated>2024-12-29T01:41:00.107Z</updated>
+  <id>https://www.wxiaow.us.kg/</id>
+  
+  <author>
+    <name>Wxiaow</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在安知鱼主题中增加来访者侧边栏</title>
+    <link href="https://www.wxiaow.us.kg/posts/37773/"/>
+    <id>https://www.wxiaow.us.kg/posts/37773/</id>
+    <published>2024-11-20T13:32:27.000Z</published>
+    <updated>2024-12-29T01:41:00.107Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="魔改" scheme="https://www.wxiaow.us.kg/categories/%E9%AD%94%E6%94%B9/"/>
+    
+    
+    <category term="科技" scheme="https://www.wxiaow.us.kg/tags/%E7%A7%91%E6%8A%80/"/>
+    
+    <category term="魔改" scheme="https://www.wxiaow.us.kg/tags/%E9%AD%94%E6%94%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>秦始皇最新力作：fuclaude部署使用指南</title>
+    <link href="https://www.wxiaow.us.kg/posts/21712/"/>
+    <id>https://www.wxiaow.us.kg/posts/21712/</id>
+    <published>2024-09-01T05:28:37.000Z</published>
+    <updated>2025-01-21T12:48:33.649Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="科技" scheme="https://www.wxiaow.us.kg/tags/%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>旅游的小记</title>
+    <link href="https://www.wxiaow.us.kg/posts/17489/"/>
+    <id>https://www.wxiaow.us.kg/posts/17489/</id>
+    <published>2024-08-22T08:32:27.000Z</published>
+    <updated>2024-10-04T06:36:45.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="旅游" scheme="https://www.wxiaow.us.kg/categories/%E6%97%85%E6%B8%B8/"/>
+    
+    
+    <category term="旅游" scheme="https://www.wxiaow.us.kg/tags/%E6%97%85%E6%B8%B8/"/>
+    
+    <category term="闲杂" scheme="https://www.wxiaow.us.kg/tags/%E9%97%B2%E6%9D%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Anzhiyu主题美化教程（随缘更新）</title>
+    <link href="https://www.wxiaow.us.kg/posts/14605/"/>
+    <id>https://www.wxiaow.us.kg/posts/14605/</id>
+    <published>2024-08-03T10:42:27.000Z</published>
+    <updated>2025-01-18T03:58:52.468Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="闲杂" scheme="https://www.wxiaow.us.kg/categories/%E9%97%B2%E6%9D%82/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一个编程屑的第一篇博客</title>
+    <link href="https://www.wxiaow.us.kg/posts/39417/"/>
+    <id>https://www.wxiaow.us.kg/posts/39417/</id>
+    <published>2024-07-17T03:26:02.000Z</published>
+    <updated>2025-01-21T12:49:17.745Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="闲杂" scheme="https://www.wxiaow.us.kg/categories/%E9%97%B2%E6%9D%82/"/>
+    
+    
+    <category term="纪念" scheme="https://www.wxiaow.us.kg/tags/%E7%BA%AA%E5%BF%B5/"/>
+    
+  </entry>
+  
+</feed>

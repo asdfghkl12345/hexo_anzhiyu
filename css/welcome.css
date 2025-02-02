@@ -1,10 +1,1 @@
-#welcome-info {
-    overflow: hidden;
-    border-radius: 14px;
-    --pos-color: #49B1F5;
-    --posdec-color: #e748b2;
-    --zz-color:#07806b;
-    --dist-color: #07806b;
-    --ip-color: #0516ff;
-    --pos-fontsize: 16px!important;
-  }
+#welcome-info{overflow:hidden;border-radius:14px;--pos-color:#49B1F5;--posdec-color:#e748b2;--zz-color:#07806b;--dist-color:#07806b;--ip-color:#0516ff;--pos-fontsize:16px!important}
