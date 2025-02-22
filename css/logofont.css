@@ -1,1 +1,27 @@
-@font-face{font-family:BungeeInline;font-display:swap;src:url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/BungeeInline.ttf') format("truetype")}@font-face{font-family:Gugi;font-display:swap;src:url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/Gugi.ttf') format("truetype")}@font-face{font-family:EDIX;font-display:swap;src:url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/EDIX.ttf') format("truetype")}@font-face{font-family:CascadiaCode;font-display:swap;src:url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/CascadiaCodeNFItalic.ttf') format("truetype")}@font-face{font-family:DingTalk-JinBuTi;src:url('https://cdn.smartcis.cn/gh/asdfghkl12345/fonts@master/DingTalk-JinBuTi.woff2') format('woff2'),url('https://fastly.jsdelivr.net/gh/asdfghkl12345/fonts@master/DingTalk-JinBuTi.woff2') format('woff');font-weight:400;font-style:normal}
+@font-face {
+    font-family: 'BungeeInline';
+    font-display: swap;
+    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/BungeeInline.ttf') format("truetype");
+  }
+@font-face {
+    font-family: 'Gugi';
+    font-display: swap;
+    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/Gugi.ttf') format("truetype");
+  }
+@font-face {
+    font-family: 'EDIX';
+    font-display: swap;
+    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/EDIX.ttf') format("truetype");
+  }
+@font-face {
+    font-family: 'CascadiaCode';
+    font-display: swap;
+    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/CascadiaCodeNFItalic.ttf') format("truetype");
+  }
+@font-face {
+    font-family: 'DingTalk-JinBuTi';
+    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/fonts@master/DingTalk-JinBuTi.woff2') format('woff2'),
+         url('https://fastly.jsdelivr.net/gh/asdfghkl12345/fonts@master/DingTalk-JinBuTi.woff2') format('woff');    /* 提供 WOFF 格式 */
+    font-weight: normal;
+    font-style: normal;
+}
