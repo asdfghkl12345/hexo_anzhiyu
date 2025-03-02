@@ -1,27 +1,31 @@
 @font-face {
     font-family: 'BungeeInline';
     font-display: swap;
-    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/BungeeInline.ttf') format("truetype");
+    src: url('https://cdn.smartcis.cn/npm/fontcdn-wxwblog@1.0.2/BungeeInline.ttf') format("truetype"),
+         url('https://unpkg.com/fontcdn-wxwblog@1.0.2/BungeeInline.ttf') format('truetype');
   }
 @font-face {
     font-family: 'Gugi';
     font-display: swap;
-    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/Gugi.ttf') format("truetype");
+    src: url('https://cdn.smartcis.cn/npm/fontcdn-wxwblog@1.0.2/Gugi.ttf') format("truetype"),
+         url('https://unpkg.com/fontcdn-wxwblog@1.0.2/Gugi.ttf') format('truetype');
   }
 @font-face {
     font-family: 'EDIX';
     font-display: swap;
-    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/EDIX.ttf') format("truetype");
+    src: url('https://cdn.smartcis.cn/npm/fontcdn-wxwblog@1.0.2/EDIX.ttf') format("truetype"),
+         url('https://unpkg.com/fontcdn-wxwblog@1.0.2/EDIX.ttf') format('truetype');
   }
 @font-face {
     font-family: 'CascadiaCode';
     font-display: swap;
-    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/hexo_anzhiyu@master/font/CascadiaCodeNFItalic.ttf') format("truetype");
+    src: url('https://cdn.smartcis.cn/npm/fontcdn-wxwblog@1.0.2/CascadiaCodeNFItalic.ttf') format("truetype"),
+         url('https://unpkg.com/fontcdn-wxwblog@1.0.2/CascadiaCodeNFItalic.ttf') format('truetype');
   }
 @font-face {
     font-family: 'DingTalk-JinBuTi';
-    src: url('https://cdn.smartcis.cn/gh/asdfghkl12345/fonts@master/DingTalk-JinBuTi.woff2') format('woff2'),
-         url('https://fastly.jsdelivr.net/gh/asdfghkl12345/fonts@master/DingTalk-JinBuTi.woff2') format('woff');    /* 提供 WOFF 格式 */
+    src: url('https://cdn.smartcis.cn/npm/fontcdn-wxwblog@1.0.2/DingTalk-JinBuTi.woff2') format('woff2'),
+         url('https://unpkg.com/fontcdn-wxwblog@1.0.2/DingTalk-JinBuTi.woff2') format('woff2');    /* 提供 WOFF 格式 */
     font-weight: normal;
     font-style: normal;
 }
